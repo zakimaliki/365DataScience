@@ -27,8 +27,5 @@ Apa saja gagasan yang akan muncul oleh ilmuwan dan manajemen data.
 Masuk akal untuk memfokuskan upaya kami untuk mengubah pendukung menjadi penggemar dengan meningkatkan pengalaman berbelanja mereka. Biasanya kami harus menggali lebih dalam untuk menemukan pendorong ketidakpuasan bagi para pelanggan ini. Mungkin antrian panjang atau staf tidak ramah atau mungkin harga tinggi. Apa pun alasannya, kita harus mengambil langkah yang dapat ditindaklanjuti untuk memperbaiki masalah ini dan membuat para pendukung kita lebih bahagia. Secara bersamaan kita dapat melakukan sesuatu yang lain. Kita dapat mengubah roamers menjadi penggemar dengan meningkatkan kartu loyalitas merek mereka hadiah voucher diskon dan undian adalah strategi yang berbeda yang digunakan untuk membuat klien tersebut loyal dalam jangka panjang yang hebat.
 
 
-- penjelasan Repo
-
-  Jadi pada pertemuan minggu pertama hari kedua kita membahas tentang Function dan Struktur Data di JavaScript, yang mana kita akan di ajarkan tantang Function di JavaScript, Obyek, Array, Iterables, Map dan Set, WeakMap dan WeakSet, Date dan Time.
 
 - [MIT Lisence](https://github.com/zakimaliki/365DataScience/blob/master/LICENSE)
