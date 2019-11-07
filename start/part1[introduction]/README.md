@@ -3,6 +3,7 @@
 
 
 - Ringkasan materi
+
 jadi pada bab yang pertama kali ini kita akan memulai dengan sebuah contoh sebelum masuk contoh kita harus tahu bahwa ada 3 hal kunci yang akan sering kali muncul dalam kursus ini yaitu Data,Algoritma, dan Insight atau wawasan. 
 
 berikut adalah contoh kasus:
