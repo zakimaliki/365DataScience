@@ -1,5 +1,5 @@
-# Repo Akademik - Praxis Academy
-
+# Repo Akademik - 365 Data Science
+# Authors- Zaki Maliki
 table of contents:
 
 1. [Certificate](certificate/)
