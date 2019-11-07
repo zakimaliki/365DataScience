@@ -5,6 +5,7 @@ table of contents:
 1. [Certificate](certificate/)
 2. [Start](start/):
     1.  [Part 1 Introduction](https://github.com/zakimaliki/365DataScience/tree/master/start/part1[introduction])
+        1.  [1. What You Will Learn in This Course](https://github.com/zakimaliki/365DataScience/tree/master/start/part1[introduction])
     2.  [Part 2](https://github.com/zakimaliki/365DataScience/tree/master/start/part2)
     3.  [Part 3](https://github.com/zakimaliki/365DataScience/tree/master/start/part3)
     4.  [Part 4](https://github.com/zakimaliki/365DataScience/tree/master/start/part4)
